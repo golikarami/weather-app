@@ -14,14 +14,12 @@ Users can search for any city and see the current weather, temperature, and othe
 
 1. Clone the project:
 ```bash
-git clone <repository-url>
+git clone <https://github.com/golikarami/weather-app.git>
 ```
 2. Go into the project folder:
 
-   ```bash
+```bash
    cd weather-app
-
-```
 ```
 Install dependencies:
 ```bash
